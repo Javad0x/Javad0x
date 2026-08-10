@@ -123,6 +123,9 @@ Keep improving when nobody is watching.
 ---
 
 <div align="center">
+## Connect
+
+**GitHub:** [@Javad0x](https://github.com/Javad0x)
 
 ### `JAVAD0X`
 
