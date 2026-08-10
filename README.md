@@ -28,7 +28,11 @@ improving my technical skills through hands-on experience.
 
 ## Currently Learning
 
-## Tech Stack
+## Tech Stack---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javad0x&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
