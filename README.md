@@ -37,8 +37,18 @@ improving my technical skills through hands-on experience.
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)
-`Python` `Linux` `Git` `GitHub` `Cybersecurity`
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
+
+### Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)`Python` `Linux` `Git` `GitHub` `Cybersecurity`
 
 ---
 
