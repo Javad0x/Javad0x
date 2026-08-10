@@ -1,97 +1,135 @@
-# Javad0x
+<div align="center">
+<img src="./javad0x-emblem.png" width="200">
 
-### Developer • Cybersecurity • Linux
+# 𝐉𝐀𝐕𝐀𝐃𝟎𝐗
 
-> Building with precision. Thinking beyond the obvious.
+### SOFTWARE • CYBERSECURITY • LINUX
 
----
+`BUILD QUIETLY • THINK DEEPLY • EXECUTE PRECISELY`
 
-## About Me
+**Precision is a habit. Discipline is the advantage.**
 
-I'm Mohammad Javad, a technology enthusiast focused on software
-development, cybersecurity, Linux, and continuous learning.
-
-I enjoy turning ideas into practical projects and improving my
-technical skills through hands-on experience.
+</div>
 
 ---
 
-## Focus
+## ◈ IDENTITY
 
-- Python Development
-- Cybersecurity
-- Linux
-- Git & GitHub
-- Problem Solving
+**Mohammad Javad** · **Javad0x**
 
----
+Technology enthusiast focused on software development, cybersecurity, Linux, networking, and continuous learning.
 
-## Currently Learning
+I don't want to simply use technology.
 
-`Python` `Linux` `Git` `GitHub` `Cybersecurity`
+**I want to understand it, build with it, and eventually create systems of my own.**
 
 ---
 
-## Tech Stack
+## ◈ CORE
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
-
-### Tools & Technologies
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)
+`PYTHON` · `LINUX` · `CYBERSECURITY` · `NETWORKING` · `GIT` · `GITHUB`
 
 ---
 
-## Projects
+## ◈ CURRENT FOCUS
 
-### 🐍 Python Learning
+**Software Development**  
+Building practical projects and strengthening programming fundamentals.
 
-A collection of Python exercises, experiments, and practical
-projects built while developing my programming skills.
+**Cybersecurity**  
+Learning security concepts, system behavior, networking, and defensive practices.
 
-### 🛡️ Cybersecurity Lab
+**Linux**  
+Exploring the command line, system fundamentals, and Linux environments.
 
-Educational cybersecurity experiments focused on Linux,
-networking, security concepts, and ethical practices.
-
-### 💻 Future Projects
-
-More projects will be added as I continue learning,
-building, and exploring new technologies.
+**Problem Solving**  
+Turning ideas into working solutions through experimentation and persistence.
 
 ---
 
-## Goals
+## ◈ TECHNOLOGY
 
-- Build real-world software projects
-- Develop strong cybersecurity fundamentals
-- Improve Linux and networking skills
-- Build a professional technical portfolio
-- Continuously learn and experiment
-
----
-
-## Philosophy
-
-> Learn. Build. Improve.
-
-> Discipline over motivation.  
-> Precision over noise.
+![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=FFD700)
+![Linux](https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FFD700)
+![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=FFD700)
+![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFD700)
+![VS Code](https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)
 
 ---
 
-## Connect
+## ◈ LEARNING
 
-**GitHub:** [@Javad0x](https://github.com/Javad0x)
+`Python` `Linux` `Git` `GitHub` `Networking` `Cybersecurity`
 
 ---
 
-<p align="center">
-  <b>Javad0x</b><br>
-  Developer • Cybersecurity • Linux
-</p>
+## ◈ PROJECTS
+
+**PYTHON LAB**  
+Programming exercises, automation, experiments, and practical projects.
+
+**SECURITY LAB**  
+Educational cybersecurity projects focused on Linux, networking, system behavior, and defensive security.
+
+**FUTURE SYSTEMS**  
+Larger projects developed as my knowledge and experience grow.
+
+---
+
+## ◈ ROADMAP
+
+`✓` Programming Fundamentals  
+`✓` Git & GitHub  
+`✓` Personal Technical Portfolio  
+`→` Advanced Python  
+`→` Linux & Networking  
+`→` Cybersecurity Fundamentals  
+`→` Real-World Projects  
+`→` Open Source  
+`□` Advanced Systems
+
+---
+
+## ◈ MINDSET
+
+**DISCIPLINE > MOTIVATION**  
+**KNOWLEDGE > HYPE**  
+**SKILL > STATUS**  
+**PRECISION > NOISE**  
+**ACTION > EXCUSES**  
+**CONSISTENCY > TALENT**
+
+> Don't chase the image of success. Build the substance behind it.
+
+---
+
+## ◈ PRINCIPLES
+
+Learn before claiming.  
+Understand before exploiting.  
+Build before showing.  
+Question everything.  
+Treat failure as information.  
+Keep improving when nobody is watching.
+
+---
+
+## ◈ PHILOSOPHY
+
+**LEARN → BUILD → TEST → FAIL → UNDERSTAND → IMPROVE → REPEAT**
+
+> **Let the work speak.**
+
+---
+
+<div align="center">
+
+### `JAVAD0X`
+
+`DEVELOPER` · `SECURITY ENTHUSIAST` · `BUILDER`
+
+**DISCIPLINE • FOCUS • CONSISTENCY**
+
+`EST. 2026`
+
+</div>
